@@ -1,4 +1,4 @@
-# PZ7
+# PZ-7
 <img width="877" height="327" alt="PZ7-Progress" src="https://github.com/user-attachments/assets/9029b9d4-e26a-4aa6-9710-d452e18eefda" />
 
 
